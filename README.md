@@ -5,7 +5,7 @@ This is a simple stopwatch project implemented in C++.
 ## How to Use
 
 1. **Download the Executable:**
-   - Navigate to the [Releases](https://github.com/ankitkumar55/Timer-Stopwatch/releases) section.
+   - Navigate to the [Releases](https://github.com/ankitkumar55/Timer-Stopwatch/) section.
    - Download the executable file i.e `timer.exe`.
 
 2. **Run the Executable:**
